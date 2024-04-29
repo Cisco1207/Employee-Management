@@ -1,0 +1,23 @@
+C:\Users\tecbi\source\repos\Poo_P2_MJ\Poo_P2_MJ\bin\Debug\Poo_P2_MJ.exe.config
+C:\Users\tecbi\source\repos\Poo_P2_MJ\Poo_P2_MJ\bin\Debug\Poo_P2_MJ.exe
+C:\Users\tecbi\source\repos\Poo_P2_MJ\Poo_P2_MJ\bin\Debug\Poo_P2_MJ.pdb
+C:\Users\tecbi\source\repos\Poo_P2_MJ\Poo_P2_MJ\obj\Debug\Poo_P2_MJ.csprojAssemblyReference.cache
+C:\Users\tecbi\source\repos\Poo_P2_MJ\Poo_P2_MJ\obj\Debug\Poo_P2_MJ.csproj.CoreCompileInputs.cache
+C:\Users\tecbi\source\repos\Poo_P2_MJ\Poo_P2_MJ\obj\Debug\Poo_P2_MJ.exe
+C:\Users\tecbi\source\repos\Poo_P2_MJ\Poo_P2_MJ\obj\Debug\Poo_P2_MJ.pdb
+C:\Users\franc\Desktop\Poo_P2_MJ\Poo_P2_MJ\bin\Debug\Poo_P2_MJ.exe.config
+C:\Users\franc\Desktop\Poo_P2_MJ\Poo_P2_MJ\bin\Debug\Poo_P2_MJ.exe
+C:\Users\franc\Desktop\Poo_P2_MJ\Poo_P2_MJ\bin\Debug\Poo_P2_MJ.pdb
+C:\Users\franc\Desktop\Poo_P2_MJ\Poo_P2_MJ\obj\Debug\Poo_P2_MJ.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\Poo_P2_MJ\Poo_P2_MJ\obj\Debug\Poo_P2_MJ.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\Desktop\Poo_P2_MJ\Poo_P2_MJ\obj\Debug\Poo_P2_MJ.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Poo_P2_MJ\Poo_P2_MJ\obj\Debug\Poo_P2_MJ.exe
+C:\Users\franc\Desktop\Poo_P2_MJ\Poo_P2_MJ\obj\Debug\Poo_P2_MJ.pdb
+D:\2024 - C1 ITLA\Programación 2\Poo_P2_MJ\Poo_P2_MJ\bin\Debug\Poo_P2_MJ.exe.config
+D:\2024 - C1 ITLA\Programación 2\Poo_P2_MJ\Poo_P2_MJ\bin\Debug\Poo_P2_MJ.exe
+D:\2024 - C1 ITLA\Programación 2\Poo_P2_MJ\Poo_P2_MJ\bin\Debug\Poo_P2_MJ.pdb
+D:\2024 - C1 ITLA\Programación 2\Poo_P2_MJ\Poo_P2_MJ\obj\Debug\Poo_P2_MJ.csproj.AssemblyReference.cache
+D:\2024 - C1 ITLA\Programación 2\Poo_P2_MJ\Poo_P2_MJ\obj\Debug\Poo_P2_MJ.csproj.SuggestedBindingRedirects.cache
+D:\2024 - C1 ITLA\Programación 2\Poo_P2_MJ\Poo_P2_MJ\obj\Debug\Poo_P2_MJ.csproj.CoreCompileInputs.cache
+D:\2024 - C1 ITLA\Programación 2\Poo_P2_MJ\Poo_P2_MJ\obj\Debug\Poo_P2_MJ.exe
+D:\2024 - C1 ITLA\Programación 2\Poo_P2_MJ\Poo_P2_MJ\obj\Debug\Poo_P2_MJ.pdb
